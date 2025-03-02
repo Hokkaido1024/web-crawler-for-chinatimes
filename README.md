@@ -1,7 +1,7 @@
 I am using Anaconda for environment management and Jupyter Notebook as my IDE.
 My current Python version is 3.10.9, installed via the following command:
 
-pip install python==3.10.9
+conda install python==3.10.9
 
 If you want to use Selenium, you must install the ChromeDriver that matches your Chrome browser version—this is very important!
 🔗 Download ChromeDriver here: https://developer.chrome.com/docs/chromedriver/downloads?hl=zh-tw
